@@ -1,5 +1,4 @@
 <img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/108819718/182240433-53826899-dbd7-4dfe-a81a-5a665941ef4f.jpg">
-
 <h1 align="center"> Jogoteca-Replit </h1>
 * [Título e Imagem de capa](#Título-e-Imagem-de-capa)
 * [Badges](#badges)
