@@ -1,5 +1,6 @@
+<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/108819718/182240433-53826899-dbd7-4dfe-a81a-5a665941ef4f.jpg">
+
 <h1 align="center"> Jogoteca-Replit </h1>
-![images](https://user-images.githubusercontent.com/108819718/182238242-b9360372-79e8-4445-a1f5-cd53b96c27f3.png)
 * [Título e Imagem de capa](#Título-e-Imagem-de-capa)
 * [Badges](#badges)
 * [Índice](#índice)
