@@ -1,4 +1,4 @@
-<h1 aling="center"> Jogoteca-Replit </h1>
+ <h1 aling="center"> Jogoteca-Replit </h1>
 * [Título e Imagem de capa](#Título-e-Imagem-de-capa)
 * [Badges](#badges)
 * [Índice](#índice)
