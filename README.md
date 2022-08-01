@@ -1,4 +1,5 @@
- <h1 aling="center"> Jogoteca-Replit </h1>
+ ![download](https://user-images.githubusercontent.com/108819718/182236066-de16df5b-96e8-487c-9a41-77f7097195ca.jpg)
+ <h1 align="center"> Jogoteca-Replit </h1>
 * [Título e Imagem de capa](#Título-e-Imagem-de-capa)
 * [Badges](#badges)
 * [Índice](#índice)
