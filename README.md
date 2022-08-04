@@ -2,9 +2,22 @@
 <h1 align="center"> Jogoteca </h1><br><br>
 * [Badges](#badges)
 * [Índice](#índice)
+<h3> Índice</h3>
+* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
+* [Badges](#badges)
+* [Índice](#índice)
+* [Descrição do Projeto](#descrição-do-projeto)
+* [Status do Projeto](#status-do-Projeto)
+* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+* [Acesso ao Projeto](#acesso-ao-projeto)
+* [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Pessoas Contribuidoras](#pessoas-contribuidoras)
+* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
+* [Licença](#licença)
+* [Conclusão](#conclusão)<br>
 <h3> Descrição </h3>
 <p> O projeto tem como função exibir uma tabela listando alguns jogos, os quais usuários enviam através de um formulário.</p>
-* [Status do Projeto](#status-do-Projeto)
+* [Status do Projeto](#status-do-Projeto)<br>
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Acesso ao Projeto](#acesso-ao-projeto)
 <h3> Tecnologias utilizadas </h3>
